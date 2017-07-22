@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Store">
+        <item>Penang Road Famous Teochew Chendol\nCategory: Dessert\nLocation: Penang Island\nBusiness hours:10:00a.m.- 6p.m. (Every Day)
+</item>
+        <item>Aki Pancake\nCategory: Dessert\nLocation: Penang Island\nBusiness hours :	6:00p.m.–9:00p.m.(Every Day)
+</item>
+        <item>Rics Burgers\nCategory: Main Dish\nLocation: Penang Island\nBusiness hours:	11:30p.m.–2:30p.m., 5:30p.m–9:30p.m. (Every Day)</item>
+        <item>Duck Egg Char Koay Teow\nCategory: Main Dish\nLocation: Penang, Main Land\nBusiness hours: 7PM–12AM (Every Day)</item>
+        <item>Joez Coconut Jelly\nCategory: Beverage\nLocation Penang Island\nBusiness hours: 7:00 a.m. - 7:00 p.m.</item>
+        <item>Roti Canai Transfer Road\nCategory: Breakfast\nLocation Penang Island\nBusiness hours: 8:00a.m. - 11:00a.m.</item>
+        <item>Toh Soon Cafe\nCategory: Breakfast\nLocation Penang Island\nBusiness hours: 8:00a.m. - 6:30p.m.</item>
+        <item>Line Clear Nasi Kandar\nCategory: Main Dish\nLocation Penang Island\nBusiness hours: 24 hours</item>
+        <item>Pak Hock Penang Famous Chicken Rice\nCategory: Main Dish\nLocation Penang Island\nBusiness hours: 10:00 a.m. - 4:00 p.m.</item>
+        <item>888 Hokkien Mee\nCategory: Main Dish\nLocation Penang Island\nBusiness hours: 5:00 p.m. - 11:45 p.m.(except Thurday)</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>A timeless Malaysian dessert of shaved ice dessert with soft fresh pandan-flavored palm flour noodles immersed in light coconut milk, and kidney beans thoroughly boiled for 4 hours. A must try specialty for you to know why it has become famous.</item>
+        <item>Aki Pancake is one such gem. A stall so fuss-free, it was handled by a single man, the proprietor himself. Selling pancakes, Chinese style (ban chang kueh, or apom pancake, or even dai kau min) the difference between Aki and the countless other stalls selling the pancakes lies in the ingredients sandwiched between the hot, chewy dough. Look at the picture above depicting the countless combinations of fillings, and you will get the drift.</item>
+        <item>This burger outlet is usually popular with those working in Bayan Baru and the Bayan Lepas Free Industrial Zone. The best burger here is the Original Oink Oink Burger that comes with homemade burger patty, created out of freshly ground pork. You can have it as a Regular or Cheeseburger - both will still taste just as good. Be sure to also try their hand cut fries.</item>
+        <item>Manned by Ah Heng, the mastermind behind this work of art, this Char Kuey Teow is no ordinary one and in fact Ah Heng adds a little twist to the dish by using duck egg instead the usual chicken egg. Duck galore one might say as not only the duck is cooked together with the kuey teow where bits and pieces of the yolk coating the dish deliciously drugging its eaters to want for more, but the duck egg is also fried as a sunny side up as a side dish to complement the main.</item>
+        <item>While Coconut Jelly is commonly seen and easily to find these days, people are still going back to this place for its famous Coconut Jelly, which said to be the first in introducing the dessert. </item>
+        <item>Roti Canai and Roti Bakar are one of the landmarks on Transfer Road. Early in the morning, their stalls are crowded with patrons enjoying their breakfast at the shoulder of the road. As you drove by, the patrons literally eating outside your window. It is a magnificent phenomena to witness how the traffic and hawker stalls blended together.</item>
+        <item>In the morning Toh Soon Cafe which hide in a small alley are famous for their charcoal toast bun with their secret recipe of Kaya and butter. Another highlight is definitely the Hainan Coffee and Nasi Lemak.Different type of bread combination such as Hainan Bread, Coffee Marbel Bread, Wholemeal Bread and Chocolate Bread are available. Their signature homemade Kaya and Peanut Butter is a must order, it taste so good.</item>
+        <item>Line Clear is located in a narrow alleyway along Jalan Penang, with wooden tables and chairs. In all honesty the food here is phenomenal and the fact that you only pay RM6.50 (the cheapest in all of Penang) for a plate of rice, fried chicken, telur dadar (sunny side up omelette), vegetables and ‘kuah banjir’ (a mix of gravies), makes the whole meal that much more satisfying.Adding to the whole value-for-money aspect of Line Clear Nasi Kandar is the fact that the food served comes in generous portions.</item>
+        <item>The kochabi style of chicken rice, nested in this humble corner coffee shop since the year 1965. It is located opposite of famous Wai Kee Char Siew Rice and Goh Thew Chik Hainan Chicken Rice. Dining in their coffee shop feel like home. Patrons were welcomed with warm greeting and food served in a glimpse.</item>
+        <item>Rich and Flavourful are the two words best to describe this popular 888 Hokkien Mee at Lebuh Presgrave. The soup is slurp-worthy, and complements well with mee hoon or yellow noodle, or even a mix of both. For an all-out Hokkien Mee experience, don’t forget to customise your dish with various add-on toppings such as pork leg, pork ribs, pork belly, eggs and fish balls! Which add up immense layer of flavour and texture. Not forgetting, they also dish out delicious loh mee. So if you miraculously still have space, remember two is better than one. </item>
+    </string-array>
+
+</resources>

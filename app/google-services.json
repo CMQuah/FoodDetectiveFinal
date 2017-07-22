@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "389576909426",
+    "firebase_url": "https://fooddetective-c815a.firebaseio.com",
+    "project_id": "fooddetective-c815a",
+    "storage_bucket": "fooddetective-c815a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389576909426:android:dd111ec1b5850a48",
+        "android_client_info": {
+          "package_name": "com.fooddetective.fooddetective"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389576909426-joheql3vnvnk9oggkt6dqbq4uj4fk10n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fooddetective.fooddetective",
+            "certificate_hash": "3712122315b1ce1bd4a4ed67a085492c33da72eb"
+          }
+        },
+        {
+          "client_id": "389576909426-6bd36i9jcsuth1vafr6lhhge58rbie54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7u8uU0F8FbMnUSk4uRpCq4M0zzLQpAyg"
+        },
+        {
+          "current_key": "AIzaSyBTgCijT73x2tSDQhv56M4B7PaPfS8Yy3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389576909426-6bd36i9jcsuth1vafr6lhhge58rbie54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
